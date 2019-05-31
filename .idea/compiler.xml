@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="tenpower-article" />
+        <module name="tenpower-base" />
+        <module name="tenpower-common" />
+        <module name="tenpower-config" />
+        <module name="tenpower-eureka" />
+        <module name="tenpower-friend" />
+        <module name="tenpower-gathering" />
+        <module name="tenpower-manager" />
+        <module name="tenpower-qa" />
+        <module name="tenpower-recruit" />
+        <module name="tenpower-search" />
+        <module name="tenpower-sms" />
+        <module name="tenpower-spit" />
+        <module name="tenpower-user" />
+        <module name="tenpower-web" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="tenpower-article" options="-parameters" />
+      <module name="tenpower-base" options="-parameters" />
+      <module name="tenpower-common" options="-parameters" />
+      <module name="tenpower-config" options="-parameters" />
+      <module name="tenpower-eureka" options="-parameters" />
+      <module name="tenpower-friend" options="-parameters" />
+      <module name="tenpower-gathering" options="-parameters" />
+      <module name="tenpower-manager" options="-parameters" />
+      <module name="tenpower-qa" options="-parameters" />
+      <module name="tenpower-recruit" options="-parameters" />
+      <module name="tenpower-search" options="-parameters" />
+      <module name="tenpower-sms" options="-parameters" />
+      <module name="tenpower-spit" options="-parameters" />
+      <module name="tenpower-user" options="-parameters" />
+      <module name="tenpower-web" options="-parameters" />
+    </option>
+  </component>
+</project>

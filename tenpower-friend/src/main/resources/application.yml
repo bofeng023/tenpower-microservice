@@ -1,0 +1,22 @@
+server:
+  port: 9010
+spring:
+  application:
+    name: tenpower-friend
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://192.168.25.129:3306/tensquare_friend?characterEncoding=utf-8
+    username: root
+    password: WYX*wyx123
+  jpa:
+    database: mysql
+    show-sql: true
+jwt:
+  config:
+    key: bofeng
+eureka:
+  client:
+    service-url:
+      defaultZone: http://127.0.0.1:6868/eureka/
+  instance:
+    prefer-ip-address: true #使该微服务在上线后能被跨域访问

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tenpower-article" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tenpower-base" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tenpower-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tenpower-config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tenpower-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tenpower-friend" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tenpower-gathering" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tenpower-manager" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tenpower-qa" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tenpower-recruit" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tenpower-search" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tenpower-sms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tenpower-spit" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tenpower-user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tenpower-web" charset="UTF-8" />
+  </component>
+</project>

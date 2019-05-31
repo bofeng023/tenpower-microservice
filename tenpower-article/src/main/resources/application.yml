@@ -1,0 +1,20 @@
+server: 
+  port: 9004
+spring:
+  application:
+    name: tenpower-article #指定服务名
+  datasource:  
+    driverClassName: com.mysql.jdbc.Driver
+    url: jdbc:mysql://192.168.25.129:3306/tensquare_article?characterEncoding=UTF8
+    username: root
+    password: WYX*wyx123
+  jpa: 
+    database: MySQL
+    show-sql: true
+eureka:
+  client:
+    service-url:
+      defaultZone: http://127.0.0.1:6868/eureka/
+  instance:
+    prefer-ip-address: true #使该微服务在上线后能被跨域访问
+
